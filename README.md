@@ -15,7 +15,7 @@ Instructions on how to install and set up the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/'https://github.com/Boutot96/SDLProject.git'.git
+git clone https://github.com/your-username/'https://github.com/Boutot96/SDLProject.git'
 
 # Navigate to the project directory
 cd your-repo
