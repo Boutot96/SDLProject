@@ -1,4 +1,4 @@
-# Project Title
+# NFL Stat Tracker
 
 A brief description of what this project does and who it's for.
 
@@ -15,7 +15,7 @@ Instructions on how to install and set up the project.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Test.git
+git clone https://github.com/your-username/'https://github.com/Boutot96/SDLProject.git'.git
 
 # Navigate to the project directory
 cd your-repo
